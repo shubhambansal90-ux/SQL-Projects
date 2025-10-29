@@ -1,12 +1,10 @@
 **SQL Projects**
-
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
 **Tool Used**
-
 PostgreSQL
 
-Sales & Marketing Data Analysis
+**Sales & Marketing Data Analysis**
 [CustomersData_1.csv]
 [Discount_Coupon_2.csv]
 [Marketing_Spend_3.csv]
