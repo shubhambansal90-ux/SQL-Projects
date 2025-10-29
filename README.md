@@ -1,22 +1,28 @@
 **SQL Projects**
+
 These projects demonstrate my proficiency in SQL and my capacity to analyze complex data. They exhibit my abilities in data investigation, visualization, and analysis.
 
 **Tool Used**
+
 PostgreSQL
 
 **Sales & Marketing Data Analysis**
 
 [CustomersData_1.csv]
+
 [Discount_Coupon_2.csv]
+
 [Marketing_Spend_3.csv]
+
 [Online_Sales_4.csv]
+
 (Sale & Marketing Project Code.sql)
 
 **Project Description**
 
 SQL project analyzing sales and marketing data to uncover insights on revenue, customer behavior, and effects of discounts & marketing spends in final revenue. Demonstrates SQL skills in data exploration, joins, aggregations, and performance analysis.
 
-QUESTIONS ANSWERED
+**QUESTIONS ANSWERED**
 
 1.	Identified the top 10 highest spenders along with their total spending amounts.
 2.	Determined the best-performing product categories based on total sales.
@@ -36,7 +42,3 @@ QUESTIONS ANSWERED
 16.	Calculated the final net revenue after accounting for discounts and marketing expenses.
 
 
-
-Install a SQL database such as SQL Server Express
-Import any .sql files to run the queries
-Modify the queries for your own database
