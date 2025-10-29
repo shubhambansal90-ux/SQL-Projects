@@ -22,7 +22,6 @@ group by CustomerID
 order by revenue desc
 limit 10;
 
-
 -- Determining the best-performing product categories based on total sales
 
 select Product_Category,
@@ -50,7 +49,6 @@ where rn = 1
 group by month_td, month_num
 order by month_num
 
-  
 -- Measuring total customers and retention rates on a month-over-month basis.
 
 with cte as (
@@ -254,7 +252,6 @@ select location, product_category,
 sale, revenue
 from cte2
 where dr=1
-
 
 -- Calculating the final net revenue after accounting for discounts and marketing expenses.
   
