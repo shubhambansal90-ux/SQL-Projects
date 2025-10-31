@@ -10,7 +10,7 @@ They highlight my skills in **data investigation, visualization, and analysis**.
 
 ---
 
-## 📊 Sales & Marketing Data Analysis
+# 📊 Sales & Marketing Data Analysis
 
 ### 📁 Datasets Used
 - `CustomersData_1.csv`  
@@ -49,3 +49,27 @@ This project demonstrates SQL skills in **data exploration, joins, aggregations,
 ---
 
 ⭐ *This project reflects practical SQL applications in real-world business analytics, combining technical query writing with business insight generation.*
+
+---
+
+# 📊 Streaming Subscription LTV Analysis
+
+## 🧠 Project Overview
+This project focuses on analyzing customer subscription data to estimate **Lifetime Value (LTV)** and understand customer behavior patterns for a fictional streaming service.  
+Using **SQL**, we explore how long customers stay subscribed, identify different subscription tiers, and calculate the overall LTV based on payment data.
+
+## 🎯 Objectives / Questions Answered
+The analysis aims to answer the following business questions:
+
+1. **Are there any returning customers?**  
+   Determine if users subscribe, cancel, and then re-subscribe later.
+
+2. **What are the different subscription costs offered?**  
+   Identify various pricing tiers.
+
+3. **What are the types of subscription intervals?**  
+   Check if the company offers monthly, quarterly, or other plans.
+
+4. **What is the overall Lifetime Value (LTV) of customers?**  
+   Estimate how much revenue each paying customer generates during their subscription period.
+
