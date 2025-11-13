@@ -64,3 +64,96 @@ The analysis aims to answer the following business questions:
 4. **What is the overall Lifetime Value (LTV) of customers?**  
    Estimate how much revenue each paying customer generates during their subscription period.
 
+---
+
+# 📊 Marketing Campaign Analysis (SQL Project)
+
+## 1. Project Overview
+
+This project analyzes marketing campaign performance using SQL.  
+The dataset (`marketing_campaign_dataset.csv`) includes detailed information about campaigns run by multiple companies—such as acquisition costs, impressions, clicks, ROI, customer segments, demographics, and engagement metrics.
+
+The SQL script (`Marketing Ana 2.sql`) performs:
+
+### 🔹 ETL & Data Cleaning
+- Converts `acquisition_cost` from string to numeric.
+- Extracts numeric duration values.
+- Prepares the dataset for analytical queries.
+
+### 🔹 Company-Level Analytics
+- Total campaigns run per company  
+- Total acquisition cost (in millions)  
+- Average conversion rate  
+- Average ROI  
+
+### 🔹 Campaign-Type Analytics
+- Total impressions & clicks  
+- CPM (cost per thousand impressions)  
+- CTR (click-through rate)  
+- Average engagement score  
+- Average conversion rate  
+- Average ROI  
+
+### 🔹 Segmentation & Optimization Insights
+Using window functions (`ROW_NUMBER()`), the analysis identifies:
+
+- Best campaign for each **target audience**
+- Best campaign for each **company**
+- Best campaign type for each **company + audience** combination
+- Best customer segment for each **company**
+- Best campaign type for each **customer segment**
+
+These insights help determine which marketing strategies yield the highest ROI across various demographic and business segments.
+
+---
+
+## Questions Answered
+
+### ✔ What is the overall marketing performance of each company?
+Aggregates include:
+- Campaign counts  
+- Acquisition cost  
+- Conversion rate  
+- ROI  
+
+---
+
+### ✔ Which campaign types perform best overall?
+The analysis computes:
+- Impressions  
+- Clicks  
+- CPM  
+- CTR  
+- Engagement score  
+- ROI  
+
+---
+
+### ✔ What is the best campaign for each target audience?
+Uses window functions to find the highest-ROI campaign per age/audience group.
+
+---
+
+### ✔ What is the best campaign for each company?
+Identifies the strongest (company + campaign type + audience) combination based on ROI.
+
+---
+
+### ✔ Which campaign works best for each company–audience combination?
+Provides granular insights to guide targeted campaign strategy.
+
+---
+
+### ✔ What is the best customer segment for each company?
+Shows which customer group delivers the highest ROI for each company.
+
+---
+
+### ✔ What is the best campaign type for each customer segment?
+Reveals the most effective strategy for each segment (Enterprise, SMB, Retail, etc.).
+
+---
+
+## 📌 Summary
+This project provides an end-to-end SQL analysis of marketing performance and delivers actionable insights into which campaigns, audiences, and customer segments drive the highest ROI.
+
