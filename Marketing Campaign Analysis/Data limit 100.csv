@@ -1,0 +1,101 @@
+"campaign_id","company","campaign_type","target_audience","duration","channel_used","conversion_rate","acquisition_cost","roi","location","language","clicks","impressions","engagement_score","customer_segment","date","aqc_cost","duration_num"
+145,"TechCorp","Social Media","Men 18-24","30 days","Email","0.12","$7,484.00","5.86","Houston","English",208,8730,2,"Outdoor Adventurers","2021-05-25","7484.00",30
+146,"TechCorp","Search","Men 25-34","60 days","Google Ads","0.03","$7,428.00","4.72","Houston","Mandarin",556,5179,4,"Tech Enthusiasts","2021-05-26","7428.00",60
+147,"TechCorp","Influencer","Men 25-34","15 days","Facebook","0.1","$11,495.00","5.13","Los Angeles","French",734,2612,5,"Health & Wellness","2021-05-27","11495.00",15
+148,"TechCorp","Influencer","All Ages","30 days","Facebook","0.13","$18,957.00","2.83","Los Angeles","Spanish",643,2939,4,"Tech Enthusiasts","2021-05-28","18957.00",30
+149,"NexGen Systems","Display","Men 18-24","45 days","Instagram","0.06","$10,772.00","2.94","Chicago","English",165,1496,6,"Health & Wellness","2021-05-29","10772.00",45
+150,"TechCorp","Search","Women 35-44","60 days","Instagram","0.14","$6,896.00","2.15","Houston","German",693,1290,1,"Foodies","2021-05-30","6896.00",60
+151,"NexGen Systems","Search","Men 18-24","60 days","Facebook","0.13","$13,318.00","2.98","New York","German",261,1415,6,"Foodies","2021-05-31","13318.00",60
+152,"TechCorp","Influencer","Women 35-44","60 days","Website","0.06","$7,031.00","5.67","Houston","French",404,8033,6,"Tech Enthusiasts","2021-06-01","7031.00",60
+153,"Alpha Innovations","Display","Women 35-44","15 days","Instagram","0.06","$5,466.00","2.66","Houston","English",257,5756,2,"Tech Enthusiasts","2021-06-02","5466.00",15
+154,"Innovate Industries","Influencer","All Ages","30 days","Instagram","0.11","$15,303.00","7.41","Chicago","Spanish",901,8712,2,"Foodies","2021-06-03","15303.00",30
+155,"TechCorp","Social Media","Women 35-44","30 days","Instagram","0.13","$13,157.00","4.41","New York","German",724,9573,6,"Fashionistas","2021-06-04","13157.00",30
+156,"Innovate Industries","Influencer","All Ages","15 days","Instagram","0.07","$13,197.00","3.31","Los Angeles","French",672,8765,9,"Tech Enthusiasts","2021-06-05","13197.00",15
+157,"Alpha Innovations","Display","Men 25-34","30 days","Facebook","0.09","$19,723.00","4.74","Houston","Mandarin",148,2746,8,"Outdoor Adventurers","2021-06-06","19723.00",30
+158,"NexGen Systems","Display","Men 18-24","60 days","Google Ads","0.12","$18,903.00","7.24","Miami","French",488,4253,1,"Tech Enthusiasts","2021-06-07","18903.00",60
+159,"Alpha Innovations","Display","Women 35-44","60 days","Website","0.06","$17,737.00","4.23","Houston","Spanish",420,8196,4,"Foodies","2021-06-08","17737.00",60
+160,"DataTech Solutions","Social Media","Women 25-34","30 days","Instagram","0.08","$16,981.00","5.74","Miami","French",395,7469,6,"Foodies","2021-06-09","16981.00",30
+161,"TechCorp","Search","All Ages","45 days","Website","0.05","$15,993.00","6.55","Miami","English",616,9536,8,"Fashionistas","2021-06-10","15993.00",45
+162,"DataTech Solutions","Social Media","Men 18-24","30 days","YouTube","0.07","$7,893.00","5.28","Chicago","German",170,6306,9,"Foodies","2021-06-11","7893.00",30
+163,"TechCorp","Email","Women 25-34","15 days","Google Ads","0.04","$9,858.00","3.09","Los Angeles","Spanish",957,4396,9,"Tech Enthusiasts","2021-06-12","9858.00",15
+164,"NexGen Systems","Influencer","Women 35-44","30 days","Email","0.09","$6,885.00","7.65","Houston","Spanish",872,3269,1,"Tech Enthusiasts","2021-06-13","6885.00",30
+165,"TechCorp","Email","Men 25-34","30 days","Email","0.07","$11,587.00","3.17","Houston","English",716,2676,9,"Foodies","2021-06-14","11587.00",30
+166,"NexGen Systems","Email","All Ages","30 days","Facebook","0.15","$5,202.00","5.94","New York","German",998,5108,3,"Fashionistas","2021-06-15","5202.00",30
+167,"Innovate Industries","Search","Men 18-24","15 days","Instagram","0.08","$15,651.00","7.24","Los Angeles","English",481,4165,7,"Tech Enthusiasts","2021-06-16","15651.00",15
+168,"NexGen Systems","Display","All Ages","30 days","Website","0.12","$11,879.00","8.0","New York","Spanish",568,4997,6,"Outdoor Adventurers","2021-06-17","11879.00",30
+169,"TechCorp","Influencer","Women 25-34","60 days","Email","0.03","$12,183.00","4.36","Los Angeles","English",421,6087,10,"Tech Enthusiasts","2021-06-18","12183.00",60
+170,"TechCorp","Search","All Ages","30 days","Google Ads","0.07","$10,690.00","5.41","Los Angeles","English",797,1306,9,"Foodies","2021-06-19","10690.00",30
+171,"TechCorp","Social Media","Men 25-34","30 days","Website","0.06","$12,886.00","4.62","Miami","Mandarin",668,2507,8,"Foodies","2021-06-20","12886.00",30
+172,"Innovate Industries","Influencer","Men 25-34","15 days","Google Ads","0.09","$10,854.00","6.1","Houston","English",303,9453,2,"Health & Wellness","2021-06-21","10854.00",15
+173,"DataTech Solutions","Influencer","All Ages","15 days","YouTube","0.11","$7,170.00","3.76","Los Angeles","German",540,6422,8,"Foodies","2021-06-22","7170.00",15
+174,"Innovate Industries","Display","Men 25-34","45 days","Google Ads","0.15","$17,414.00","6.9","Los Angeles","French",801,8439,5,"Foodies","2021-06-23","17414.00",45
+175,"Innovate Industries","Search","Men 18-24","15 days","Instagram","0.1","$12,272.00","5.29","Los Angeles","French",436,7817,7,"Outdoor Adventurers","2021-06-24","12272.00",15
+176,"Innovate Industries","Social Media","All Ages","15 days","Website","0.09","$6,489.00","2.22","Chicago","English",683,9143,6,"Foodies","2021-06-25","6489.00",15
+177,"Innovate Industries","Display","Women 35-44","60 days","YouTube","0.08","$19,732.00","6.06","Chicago","English",862,6773,1,"Tech Enthusiasts","2021-06-26","19732.00",60
+178,"Alpha Innovations","Social Media","All Ages","45 days","YouTube","0.09","$17,837.00","3.84","Houston","English",944,9536,6,"Foodies","2021-06-27","17837.00",45
+179,"Innovate Industries","Display","All Ages","45 days","Email","0.13","$11,954.00","4.91","Miami","Mandarin",241,9184,8,"Foodies","2021-06-28","11954.00",45
+180,"Alpha Innovations","Display","Women 35-44","30 days","Google Ads","0.01","$16,862.00","6.29","Chicago","Spanish",200,1513,9,"Tech Enthusiasts","2021-06-29","16862.00",30
+181,"TechCorp","Display","All Ages","45 days","Email","0.07","$8,076.00","4.29","New York","Mandarin",883,3400,8,"Fashionistas","2021-06-30","8076.00",45
+182,"DataTech Solutions","Influencer","Women 35-44","15 days","Facebook","0.06","$19,143.00","2.58","Los Angeles","Spanish",690,1087,7,"Tech Enthusiasts","2021-07-01","19143.00",15
+183,"TechCorp","Influencer","Women 35-44","15 days","Instagram","0.06","$18,350.00","3.2","New York","Spanish",372,3266,4,"Health & Wellness","2021-07-02","18350.00",15
+184,"DataTech Solutions","Social Media","Men 18-24","45 days","Email","0.06","$12,315.00","3.97","Chicago","Spanish",505,4099,7,"Fashionistas","2021-07-03","12315.00",45
+185,"NexGen Systems","Influencer","Men 25-34","15 days","Instagram","0.14","$17,598.00","7.27","Chicago","Mandarin",961,8475,7,"Outdoor Adventurers","2021-07-04","17598.00",15
+186,"TechCorp","Email","Women 35-44","30 days","Instagram","0.05","$19,545.00","2.57","Houston","German",209,1917,1,"Health & Wellness","2021-07-05","19545.00",30
+187,"NexGen Systems","Email","Men 25-34","60 days","Email","0.13","$14,231.00","6.28","Chicago","Mandarin",312,8509,3,"Health & Wellness","2021-07-06","14231.00",60
+188,"Alpha Innovations","Influencer","Women 25-34","30 days","Instagram","0.11","$15,162.00","7.8","Chicago","German",360,6030,8,"Tech Enthusiasts","2021-07-07","15162.00",30
+189,"DataTech Solutions","Social Media","Women 25-34","15 days","Email","0.12","$15,403.00","6.21","Houston","English",542,6792,6,"Foodies","2021-07-08","15403.00",15
+190,"Innovate Industries","Influencer","All Ages","15 days","Email","0.06","$5,363.00","5.46","Chicago","German",369,8511,8,"Tech Enthusiasts","2021-07-09","5363.00",15
+191,"DataTech Solutions","Social Media","Women 35-44","60 days","Website","0.12","$13,903.00","2.46","Chicago","German",461,9733,9,"Tech Enthusiasts","2021-07-10","13903.00",60
+192,"TechCorp","Influencer","Men 25-34","45 days","Facebook","0.12","$14,271.00","5.64","New York","Mandarin",842,2301,1,"Health & Wellness","2021-07-11","14271.00",45
+193,"DataTech Solutions","Social Media","Men 25-34","30 days","Google Ads","0.05","$13,744.00","4.7","Miami","German",743,5155,5,"Fashionistas","2021-07-12","13744.00",30
+194,"NexGen Systems","Email","All Ages","15 days","Google Ads","0.1","$6,093.00","4.28","New York","Mandarin",423,1340,7,"Foodies","2021-07-13","6093.00",15
+195,"DataTech Solutions","Email","All Ages","45 days","Email","0.07","$5,272.00","3.62","Chicago","Spanish",939,9590,9,"Foodies","2021-07-14","5272.00",45
+196,"DataTech Solutions","Display","Women 35-44","30 days","YouTube","0.02","$6,208.00","7.31","Houston","Mandarin",257,9939,8,"Health & Wellness","2021-07-15","6208.00",30
+197,"Innovate Industries","Influencer","Women 25-34","45 days","Email","0.1","$15,437.00","3.72","Los Angeles","English",683,4212,6,"Tech Enthusiasts","2021-07-16","15437.00",45
+198,"DataTech Solutions","Display","Men 18-24","15 days","Instagram","0.01","$16,368.00","4.37","Los Angeles","Mandarin",433,8942,5,"Tech Enthusiasts","2021-07-17","16368.00",15
+199,"Innovate Industries","Influencer","Men 18-24","45 days","Email","0.14","$10,939.00","4.79","Miami","Spanish",146,1404,3,"Outdoor Adventurers","2021-07-18","10939.00",45
+200,"TechCorp","Influencer","Men 25-34","30 days","Google Ads","0.02","$16,312.00","2.63","Chicago","English",117,4406,7,"Outdoor Adventurers","2021-07-19","16312.00",30
+201,"Innovate Industries","Search","Women 35-44","60 days","Facebook","0.09","$9,518.00","4.22","Houston","German",324,8445,6,"Tech Enthusiasts","2021-07-20","9518.00",60
+202,"DataTech Solutions","Influencer","Women 35-44","45 days","Instagram","0.13","$16,258.00","5.83","Chicago","French",317,2305,10,"Foodies","2021-07-21","16258.00",45
+203,"DataTech Solutions","Display","All Ages","30 days","Email","0.1","$7,176.00","7.27","Los Angeles","Spanish",472,7157,10,"Tech Enthusiasts","2021-07-22","7176.00",30
+204,"TechCorp","Influencer","Men 18-24","45 days","Google Ads","0.15","$14,405.00","7.51","Los Angeles","French",896,7502,9,"Foodies","2021-07-23","14405.00",45
+205,"DataTech Solutions","Influencer","Women 35-44","45 days","Email","0.11","$13,293.00","7.49","Chicago","Mandarin",132,1159,10,"Foodies","2021-07-24","13293.00",45
+206,"Innovate Industries","Email","Men 18-24","15 days","Website","0.12","$14,318.00","3.69","Miami","Spanish",210,2135,3,"Tech Enthusiasts","2021-07-25","14318.00",15
+207,"TechCorp","Social Media","Women 25-34","60 days","Instagram","0.05","$8,772.00","6.29","New York","English",209,6176,6,"Health & Wellness","2021-07-26","8772.00",60
+208,"DataTech Solutions","Display","Women 25-34","45 days","Google Ads","0.11","$12,864.00","2.87","Los Angeles","English",280,2676,7,"Health & Wellness","2021-07-27","12864.00",45
+209,"NexGen Systems","Display","All Ages","15 days","Google Ads","0.11","$17,562.00","3.66","Chicago","English",308,6903,7,"Health & Wellness","2021-07-28","17562.00",15
+210,"Innovate Industries","Display","All Ages","45 days","Email","0.08","$17,461.00","2.81","Los Angeles","Mandarin",554,8096,10,"Health & Wellness","2021-07-29","17461.00",45
+211,"DataTech Solutions","Search","Women 35-44","30 days","Website","0.08","$19,366.00","7.94","Chicago","Spanish",868,8919,10,"Health & Wellness","2021-07-30","19366.00",30
+212,"NexGen Systems","Social Media","All Ages","30 days","Instagram","0.02","$6,907.00","2.39","Houston","French",376,1503,5,"Foodies","2021-07-31","6907.00",30
+213,"DataTech Solutions","Social Media","Women 25-34","45 days","Email","0.15","$16,540.00","2.72","Houston","Mandarin",264,3516,2,"Foodies","2021-08-01","16540.00",45
+214,"TechCorp","Display","All Ages","60 days","Email","0.05","$5,020.00","7.67","Chicago","Spanish",773,3130,5,"Health & Wellness","2021-08-02","5020.00",60
+215,"Alpha Innovations","Influencer","Women 25-34","45 days","YouTube","0.06","$13,697.00","2.79","Los Angeles","Spanish",999,2557,3,"Health & Wellness","2021-08-03","13697.00",45
+216,"Alpha Innovations","Social Media","Women 25-34","30 days","Email","0.14","$19,308.00","4.39","New York","Mandarin",726,6296,5,"Health & Wellness","2021-08-04","19308.00",30
+217,"NexGen Systems","Search","Women 35-44","30 days","Google Ads","0.11","$13,185.00","6.06","Houston","English",614,9971,10,"Fashionistas","2021-08-05","13185.00",30
+218,"DataTech Solutions","Email","Men 18-24","15 days","Instagram","0.05","$15,880.00","5.85","Los Angeles","Spanish",967,9549,5,"Tech Enthusiasts","2021-08-06","15880.00",15
+219,"TechCorp","Search","Women 25-34","15 days","Email","0.08","$13,524.00","3.91","Los Angeles","Spanish",167,9596,10,"Foodies","2021-08-07","13524.00",15
+220,"Innovate Industries","Influencer","All Ages","15 days","Email","0.03","$10,536.00","8.0","New York","Mandarin",924,3584,10,"Fashionistas","2021-08-08","10536.00",15
+221,"Alpha Innovations","Email","Men 18-24","15 days","Email","0.02","$5,941.00","6.73","Miami","French",715,8580,2,"Tech Enthusiasts","2021-08-09","5941.00",15
+222,"Alpha Innovations","Email","Men 25-34","15 days","Instagram","0.09","$12,239.00","2.98","Los Angeles","Mandarin",198,8847,2,"Foodies","2021-08-10","12239.00",15
+223,"DataTech Solutions","Search","Women 25-34","30 days","Facebook","0.04","$11,973.00","5.36","Los Angeles","Spanish",240,5611,6,"Fashionistas","2021-08-11","11973.00",30
+224,"TechCorp","Display","Women 35-44","15 days","Google Ads","0.1","$5,697.00","7.76","Miami","German",285,3131,1,"Foodies","2021-08-12","5697.00",15
+225,"DataTech Solutions","Email","Men 25-34","30 days","Instagram","0.12","$6,388.00","6.8","Houston","English",159,4073,7,"Outdoor Adventurers","2021-08-13","6388.00",30
+226,"NexGen Systems","Influencer","Women 35-44","60 days","Facebook","0.15","$10,330.00","2.83","Houston","French",153,5056,1,"Foodies","2021-08-14","10330.00",60
+227,"Innovate Industries","Email","Men 18-24","45 days","Instagram","0.08","$5,429.00","6.93","Los Angeles","English",423,7289,1,"Foodies","2021-08-15","5429.00",45
+228,"TechCorp","Influencer","Men 25-34","45 days","Google Ads","0.15","$16,318.00","5.39","Chicago","German",660,1268,1,"Health & Wellness","2021-08-16","16318.00",45
+229,"Innovate Industries","Search","Men 25-34","60 days","Website","0.08","$10,475.00","6.46","Los Angeles","Mandarin",111,8357,6,"Tech Enthusiasts","2021-08-17","10475.00",60
+230,"Alpha Innovations","Search","Women 35-44","30 days","Instagram","0.02","$14,610.00","5.38","Los Angeles","French",820,5111,4,"Fashionistas","2021-08-18","14610.00",30
+231,"DataTech Solutions","Email","Women 35-44","15 days","Facebook","0.1","$9,636.00","5.08","New York","German",935,6946,2,"Fashionistas","2021-08-19","9636.00",15
+232,"NexGen Systems","Email","Women 25-34","60 days","Google Ads","0.05","$11,450.00","2.89","New York","Spanish",685,7667,6,"Fashionistas","2021-08-20","11450.00",60
+233,"DataTech Solutions","Email","Women 35-44","60 days","Facebook","0.02","$14,372.00","4.26","Houston","Spanish",703,6178,2,"Tech Enthusiasts","2021-08-21","14372.00",60
+234,"Innovate Industries","Search","Men 25-34","60 days","Website","0.04","$15,105.00","5.61","Chicago","German",366,8306,1,"Fashionistas","2021-08-22","15105.00",60
+235,"Alpha Innovations","Display","Men 25-34","15 days","Facebook","0.07","$10,319.00","7.47","Chicago","German",409,4851,6,"Outdoor Adventurers","2021-08-23","10319.00",15
+236,"TechCorp","Search","Women 25-34","45 days","Google Ads","0.04","$5,220.00","4.79","New York","French",662,8586,2,"Fashionistas","2021-08-24","5220.00",45
+237,"NexGen Systems","Search","Men 18-24","30 days","Email","0.14","$15,820.00","5.12","Chicago","German",240,6283,9,"Health & Wellness","2021-08-25","15820.00",30
+238,"Innovate Industries","Display","Men 18-24","60 days","Website","0.01","$18,076.00","3.13","New York","English",320,5064,6,"Fashionistas","2021-08-26","18076.00",60
+239,"Innovate Industries","Social Media","Women 25-34","60 days","Email","0.08","$18,074.00","5.99","Chicago","German",587,4909,5,"Outdoor Adventurers","2021-08-27","18074.00",60
+240,"Alpha Innovations","Email","Women 35-44","60 days","Google Ads","0.1","$6,676.00","5.75","Los Angeles","Spanish",119,6702,7,"Tech Enthusiasts","2021-08-28","6676.00",60
+241,"Innovate Industries","Display","Women 25-34","45 days","Email","0.06","$19,928.00","4.24","Miami","French",116,3794,4,"Foodies","2021-08-29","19928.00",45
+242,"NexGen Systems","Search","Women 25-34","60 days","Google Ads","0.11","$14,322.00","5.66","New York","Spanish",872,8759,2,"Fashionistas","2021-08-30","14322.00",60
+243,"Alpha Innovations","Influencer","Men 18-24","60 days","Website","0.1","$19,463.00","3.02","Miami","Mandarin",970,8060,3,"Tech Enthusiasts","2021-08-31","19463.00",60
+244,"Alpha Innovations","Influencer","Men 25-34","45 days","Google Ads","0.13","$12,616.00","5.23","New York","German",864,1054,6,"Fashionistas","2021-09-01","12616.00",45
