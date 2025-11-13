@@ -1,5 +1,4 @@
-
-drop table marketing
+-- Creating the table framework
 
 create table marketing (
 Campaign_ID int,
@@ -20,6 +19,8 @@ Customer_Segment varchar (100),
 Date date
 )
 
+-- Having a look at the data  
+  
 select *
 from marketing
 limit 100
