@@ -12,15 +12,6 @@ They highlight my skills in **data investigation, visualization, and analysis**.
 
 # 📊 Sales & Marketing Data Analysis
 
-### 📁 Datasets Used
-- `CustomersData_1.csv`  
-- `Discount_Coupon_2.csv`  
-- `Marketing_Spend_3.csv`  
-- `Online_Sales_4.csv`  
-- `Sale & Marketing Project Code.sql`
-
----
-
 ## 🧾 Project Description
 A SQL project analyzing **sales and marketing data** to uncover insights on **revenue, customer behavior, discount effects, and marketing spends**.  
 This project demonstrates SQL skills in **data exploration, joins, aggregations, window functions, and performance analysis**.
